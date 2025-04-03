@@ -9,16 +9,16 @@
 	/* Colour Palette  */
 	/* *************** */
 	--colour:  #f2e0bf; 
-	--accent_color: BLACK; 
-	--body_accent_color: white;
+	--accent_color: White; 
+	--body_accent_color: Black;
  
-	--text_colour:BLACK; 
+	--text_colour:white; 
 
 
 	/* links & buttons */
 	/* *************** */
-	--buttons_text_colour:Black; 
-	--buttons_background_color:white;
+	--buttons_text_colour:white; 
+	--buttons_background_color:#202A44;
 
 	--hover_text_colour:white; 
 	--hover_background_color:BLACK;
