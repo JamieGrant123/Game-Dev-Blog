@@ -9,22 +9,22 @@
 	/* Colour Palette  */
 	/* *************** */
 	--colour:  #f2e0bf; 
-	--accent_color: White; 
+	--accent_color: #FFFFFF; 
 	--body_accent_color: Black;
  
-	--text_colour:white; 
+	--text_colour: #FFFFFF; 
 
 
 	/* links & buttons */
 	/* *************** */
-	--buttons_text_colour:white; 
+	--buttons_text_colour:  #FFFFFF; 
 	--buttons_background_color:#202A44;
 
-	--hover_text_colour:white; 
+	--hover_text_colour:  #FFFFFF; 
 	--hover_background_color:BLACK;
 
-	--active_text_colour:white; 
-	--active_background_color:gray;
+	--active_text_colour:  #FFFFFF; 
+	--active_background_color: gray;
 
 
 	/* Body */
