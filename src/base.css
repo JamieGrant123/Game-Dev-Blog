@@ -10,7 +10,7 @@
 	/* *************** */
 	--colour:  #f2e0bf; 
 	--accent_color: #FFFFFF; 
-	--body_accent_color: Black;
+	--body_accent_color: #000000;
  
 	--text_colour: #FFFFFF; 
 
@@ -21,10 +21,10 @@
 	--buttons_background_color:#202A44;
 
 	--hover_text_colour:  #FFFFFF; 
-	--hover_background_color:BLACK;
+	--hover_background_color:#000000;
 
 	--active_text_colour:  #FFFFFF; 
-	--active_background_color: gray;
+	--active_background_color: #000000;
 
 
 	/* Body */
