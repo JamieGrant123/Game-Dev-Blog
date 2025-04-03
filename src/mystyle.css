@@ -7,8 +7,8 @@
 /* Style the buttons */
 .button {
 
-  	color: var(--buttons_text_colour);white
-  	background-color: var(--buttons_background_color);#202A44
+  	color: var(--buttons_text_colour);
+  	background-color: var(--buttons_background_color);
 
 	border-width:var(--border-width);
 	border-color: var(--accent_color);
