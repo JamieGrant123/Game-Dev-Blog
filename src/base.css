@@ -9,22 +9,22 @@
 	/* Colour Palette  */
 	/* *************** */
 	--colour:  #f2e0bf; 
-	--accent_color: #FFFFFF; 
-	--body_accent_color: #000000;
+	--accent_color:#FFFFFF; 
+	--body_accent_color:#000000;
  
-	--text_colour: #FFFFFF; 
+	--text_colour:#FFFFFF; 
 
 
 	/* links & buttons */
 	/* *************** */
-	--buttons_text_colour:  #FFFFFF; 
+	--buttons_text_colour:#FFFFFF; 
 	--buttons_background_color:#202A44;
 
-	--hover_text_colour:  #FFFFFF; 
+	--hover_text_colour:#FFFFFF; 
 	--hover_background_color:#000000;
 
-	--active_text_colour:  #FFFFFF; 
-	--active_background_color: #000000;
+	--active_text_colour:#FFFFFF; 
+	--active_background_color:#000000;
 
 
 	/* Body */
